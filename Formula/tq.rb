@@ -1,9 +1,9 @@
 class Tq < Formula
   desc "Command line TOML Processor"
   homepage "https://github.com/4rbor/tq"
-  url "https://github.com/4rbor/tq/releases/download/0.1.2-46/tq-mac.tar.gz"
+  url "https://github.com/4rbor/tq/releases/download/0.1.2-50/tq-mac.tar.gz"
   version "0.1.2"
-  sha256 "1176dac73894d5d414d00b7df4aab2183911d6c18f4bb01c02b0eaaf9b8c6a89"
+  sha256 "daa14db39648cecaf354bb1cfc7b4429398d8053cbba895530cad8a356059fbe"
 
   def install
     bin.install "tq"
