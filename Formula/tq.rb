@@ -4,11 +4,11 @@ class Tq < Formula
   version "0.1.2"
 
   if OS.mac?
-    url "https://github.com/4rbor/tq/releases/download/0.1.2-69/tq-mac.tar.gz"
-    sha256 "2969ec6653299b26ed32b7a6c62fc7312b92a54920d0fa970a2b5c7fecb2cc7a"
+    url "https://github.com/4rbor/tq/releases/download/0.1.2-70/tq-mac.tar.gz"
+    sha256 "527fa927736ab97e6f34dddc7e7dbdfe70755a2da14e78c0658350216430cb4f"
   elsif OS.linux?
-    url "https://github.com/4rbor/tq/releases/download/0.1.2-69/tq-lin.tar.gz"
-    sha256 "3481063ac129ad17cdb2c6c24dfeef5e774f0278a8b2adfb98822af0f301208d"
+    url "https://github.com/4rbor/tq/releases/download/0.1.2-70/tq-lin.tar.gz"
+    sha256 "1c0c2a33f9e0f2ea12fcc87e4a16e783bcb6f09383ce1b34713806015e85a9a5"
   end
 
   def install
